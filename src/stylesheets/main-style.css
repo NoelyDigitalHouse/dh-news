@@ -26,6 +26,9 @@ main {
     width: clamp( 100px, 90%, 900px );
 }
 
+top-section { display: block;  }
+top-section img { width: 100%; }
+
 footer {
     width: clamp( 100px, 90%, 900px );
     margin-top: 3rem;
